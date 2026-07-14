@@ -239,7 +239,7 @@ Response
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sumanth181991/NLP_Fake_News_Detection.git
 ```
 
 ## Create Virtual Environment
